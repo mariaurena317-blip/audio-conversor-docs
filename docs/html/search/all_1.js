@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['con_20criptografía_0',['Conversor de Audio a Texto con Criptografía',['../index.html',1,'']]],
-  ['conversor_1',['Conversor',['../namespace_conversor.html',1,'']]],
-  ['conversor_20de_20audio_20a_20texto_20con_20criptografía_2',['Conversor de Audio a Texto con Criptografía',['../index.html',1,'']]],
-  ['criptografía_3',['Conversor de Audio a Texto con Criptografía',['../index.html',1,'']]]
+  ['components_0',['components',['../class_conversor_1_1_form1.html#a877ac0c60916b14ce5f791c28e20f7d4',1,'Conversor::Form1']]],
+  ['conversor_1',['Conversor',['../namespace_conversor.html',1,'']]]
 ];

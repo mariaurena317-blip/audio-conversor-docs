@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['utilizadas_0',['Tecnologías Utilizadas',['../index.html#tecnologias',1,'']]]
+  ['utilizadas_0',['Tecnologias Utilizadas',['../namespace_conversor.html#tecnologias',1,'']]]
 ];

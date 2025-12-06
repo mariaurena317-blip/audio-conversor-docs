@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['introducción_0',['Introducción',['../index.html#intro',1,'']]]
+  ['introduccion_0',['Introduccion',['../namespace_conversor.html#intro',1,'']]]
 ];
